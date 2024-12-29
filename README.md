@@ -1,6 +1,6 @@
 # Optimizing Airplane Boarding and Disembarking
 
-This project was developed for the International Mathematical Modeling Challenge (IMMC) 2022. It focuses on creating mathematical models and simulations to optimize airplane boarding and disembarking times. Our models aim to improve efficiency by considering various factors such as passenger behavior, seating arrangements, and baggage handling.
+This project was developed for the International Mathematical Modeling Challenge (IMMC) 2022, where it earned the Meritorious Prize and achieved 8th place overall, the best performance in the history of Vietnamese participation. It focuses on creating mathematical models and simulations to optimize airplane boarding and disembarking times. Our models aim to improve efficiency by considering various factors such as passenger behavior, seating arrangements, and baggage handling.
 
 ## Key Features
 
